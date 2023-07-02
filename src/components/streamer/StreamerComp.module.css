@@ -1,0 +1,13 @@
+.streamer-wrapper {
+	display: flex;
+	padding: 20px 0;
+	margin: 0 auto;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 3rem;
+	max-height: 70px;
+	max-width: 950px;
+	background: rgb(192, 122, 217);
+	border: solid rgb(189, 19, 84) 3px;
+	border-radius: 15px;
+  }
